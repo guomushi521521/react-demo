@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'anticon_user';  /* project id 379832 */
+  src: url('//at.alicdn.com/t/font_379832_3dlsdngeh3434n29.eot');
+  src: url('//at.alicdn.com/t/font_379832_3dlsdngeh3434n29.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_379832_3dlsdngeh3434n29.woff') format('woff'),
+  url('//at.alicdn.com/t/font_379832_3dlsdngeh3434n29.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_379832_3dlsdngeh3434n29.svg#anticon_user') format('svg');
+}
+.iconfont{
+  font-family:"anticon_user" !important;
+  font-size:12px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
